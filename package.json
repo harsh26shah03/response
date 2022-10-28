@@ -4,8 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "start": "snowpack dev",
-    "build": "snowpack build"
+    "start": "snowpack dev"
   },
   "author": "",
   "license": "ISC",
